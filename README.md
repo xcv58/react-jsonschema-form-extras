@@ -105,9 +105,6 @@ ReactDOM.render(
   document.getElementById("app")
 );
 ```
-
-Example:
-
 [![Edit p3z45m8rpq](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/p3z45m8rpq)
 
 If you want multiple fields:
@@ -122,9 +119,6 @@ ReactDOM.render(
   document.getElementById("app")
 );
 ```
-
-Example:
-
 [![Edit wnyl7n07zk](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/wnyl7n07zk)
 
 ## Composite array field (`compositeArray`)
